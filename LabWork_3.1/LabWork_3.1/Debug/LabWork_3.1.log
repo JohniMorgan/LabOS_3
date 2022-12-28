@@ -1,0 +1,5 @@
+﻿  LabWork_3.1.cpp
+C:\Users\Evgeny\source\repos\LabWork_3.1\LabWork_3.1\LabWork_3.1.cpp(32,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeny\source\repos\LabWork_3.1\LabWork_3.1\LabWork_3.1.cpp(89,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeny\source\repos\LabWork_3.1\LabWork_3.1\LabWork_3.1.cpp(95,27): warning C4018: <: несоответствие типов со знаком и без знака
+  LabWork_3.1.vcxproj -> C:\Users\Evgeny\source\repos\LabWork_3.1\Debug\LabWork_3.1.exe
